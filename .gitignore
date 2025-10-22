@@ -1,0 +1,9 @@
+MasterDataset*/
+/data/MasterDataset/*
+/cache/*
+/logs/*
+/outputs/*
+/temp/*
+/.vscode/*
+.DS_Store
+Thumbs.db
