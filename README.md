@@ -1,0 +1,1 @@
+This Smart farm project is created to help those interested in agritech at large and the information here is about training the model. the dataset is from kaggle and once set a resnet modelis created after 10 epoches and valid accuracy is generated making you a great developer and great at ml ops.
